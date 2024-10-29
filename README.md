@@ -65,3 +65,10 @@ Python 3.x
 Required libraries: pandas, matplotlib, seaborn
 Conclusion
 This project sheds light on the composition and growth of Netflix's content library. The findings can help stakeholders understand content trends and guide data-driven decisions related to content acquisition and production.
+
+Images of the project:
+
+<img width="1109" alt="Screenshot 2024-10-29 at 9 19 18 AM" src="https://github.com/user-attachments/assets/1f597451-e0e8-41b6-bb49-e16cecf7bf6b">
+<img width="1109" alt="Screenshot 2024-10-29 at 9 19 59 AM" src="https://github.com/user-attachments/assets/1105735f-51aa-44fc-b168-11bc8077ec11">
+<img width="1109" alt="Screenshot 2024-10-29 at 9 20 11 AM" src="https://github.com/user-attachments/assets/0b2360b5-4998-4989-989c-ce7a43323252">
+<img width="1109" alt="Screenshot 2024-10-29 at 9 20 22 AM" src="https://github.com/user-attachments/assets/bcff9872-b4b7-4ed2-9994-1a2423dcff52">
